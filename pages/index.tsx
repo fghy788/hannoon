@@ -145,7 +145,7 @@ export default function Home() {
 
             <div className={`font-key w-full rounded-xl border p-2`}>
               <div className={`flex h-8 w-full items-center gap-2 rounded-xl px-2`}>
-                <span>Last 5 Contest</span>
+                <span>Last Contests</span>
               </div>
               <div className={`flex h-fit w-full flex-col rounded-xl border px-2 text-xs md:text-base`}>
                 <div className={`grid w-full grid-cols-5 place-items-center`}>
